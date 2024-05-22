@@ -1,5 +1,5 @@
 
-Name: Shamiul Haque
+<b>Name: Shamiul Haque</b>
 
 Assignment Name:
  ⦁	Alphabet Tile Interaction
