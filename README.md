@@ -1,6 +1,7 @@
 
 <b>Name: Shamiul Haque</b>
 
-Assignment Name:
- ⦁	Alphabet Tile Interaction
+
+<i>Assignment Name:</i> <br />
+ ⦁	Alphabet Tile Interaction  <br />
  ⦁	Recursive-partitioning
