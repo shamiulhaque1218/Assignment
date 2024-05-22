@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+.title{
+  color: rgb(114, 116, 3);
+  font-size: 25px;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.tile {
+  padding: 20px;
+  background-color: #e0e0e0;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.tile:hover {
+  background-color: #d0d0d0;
+}
+.output{
+  color: rgb(7, 204, 89);
+  font-size: 25px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding-bottom: 80px;
+}
+
